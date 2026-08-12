@@ -1,6 +1,9 @@
 # EXPLANATION-OF-PUBLISHED-RESEARCH-PAPER
-This repository contains presentation slides prepared to explain and present a published research paper as part of an academic learning. The research paper was authored by my faculty, who provided his published research paper to me as an academic challenge. I was asked to study the paper carefully and explain its concepts and key ideas.
+This repository contains presentation slides prepared to explain and present a published research paper as part of an academic learning and presentation task. The paper was authored by my course instructor, who assigned it to me as an academic challenge to study, understand, and explain its concepts and key ideas.
 
-This presentation was prepared for my Algorithms course during my 6th semester (Fall 2025–26) at American International University-Bangladesh (AIUB).
-As part of an academic challenge, my course faculty member provided me a research paper and asked me to study and explain the research in detail. The objective was to demonstrate my understanding of the paper, including its underlying concepts, methodology, algorithms, and key findings.
-I prepared these presentation slides after studying the research paper and organizing the relevant concepts into a structured presentation. I then used the presentation to explain my understanding of the research to my faculty member.
+This presentation was prepared for my Algorithms course during my 6th semester (Fall 2025–26) at American International University-Bangladesh (AIUB). The objective was to demonstrate my understanding of the research, including its underlying concepts, methodology, algorithms, and key findings.
+
+After carefully studying the paper, I organized the relevant information into a structured presentation and presented my understanding of the research to my course instructor.
+
+# Note: 
+The original research and its findings belong to the respective authors of the published paper. The presentation and explanation in this repository represent my own academic work based on my study and understanding of the research.
